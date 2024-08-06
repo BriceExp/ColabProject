@@ -1,0 +1,10 @@
+def myFun(x, y=50):
+    print("x: ", x)
+    print("y: ", y)
+
+def student(firstname, lastname):
+    print(firstname, lastname)
+
+def nameAge(name, age):
+    print("Hi, I am", name)
+    print("My age is ", age)
