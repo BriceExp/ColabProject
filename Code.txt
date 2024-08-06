@@ -4,6 +4,8 @@ def myFun(x, y=50):
 
 def student(firstname, lastname):
     print(firstname, lastname)
+    #Here is the modification of the second function in fact just comment! 
+    #BloubloublouBloup
 
 def nameAge(name, age):
     print("Hi, I am", name)
