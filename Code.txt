@@ -4,6 +4,7 @@ def myFun(x, y=50):
 
 def student(firstname, lastname):
     print(firstname, lastname)
+#This is just a modification for func 2
 
 def nameAge(name, age):
     print("Hi, I am", name)
